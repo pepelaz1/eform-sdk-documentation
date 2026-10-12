@@ -23,3 +23,11 @@ vagrant up
 ```
 
 You can now see the docs at http://localhost:4567. Whoa! That was fast!
+
+<!-- portfolio-visual:start -->
+## Схема работы
+
+![Документация eForm SDK — форк](docs/portfolio/diagram.png)
+
+Схема подготовлена по README и исходному коду. Запуск приложения не проверялся. Репозиторий является форком [microting/eform-sdk-documentation](https://github.com/microting/eform-sdk-documentation); схема поясняет устройство документации SDK.
+<!-- portfolio-visual:end -->
